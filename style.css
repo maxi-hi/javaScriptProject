@@ -1,0 +1,46 @@
+body {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  .resultados-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    background-color: #333;
+  }
+  
+  .resultados-container h2 {
+    color: #fff;
+  }
+  
+  .resultados-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resultados-container li {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #444;
+    border-radius: 3px;
+  }
+  
